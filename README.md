@@ -19,8 +19,8 @@ When I'm not coding, you’ll find me exploring new tech trends, reading blogs, 
 ## Find Me
 
 - GitHub: [@thenandinikashyap](https://github.com/thenandinikashyap)
-- LinkedIn: [Nandini Kashyap](https://www.linkedin.com/in/nandini-kashyap-12345)
-- Email: [nandini.kashyap@example.com](mailto:nandini.kashyap@example.com)
+- LinkedIn: [Nandini Kashyap]((https://www.linkedin.com/in/nandinik05777/))
+- Email: [nandinikashyap05777@gmail.com](mailto:nandinikashyap05777@gmail.com)
 
 Feel free to reach out if you'd like to collaborate or chat about Android development and technology!
 
